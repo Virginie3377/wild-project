@@ -1,4 +1,3 @@
 # wild-project
 
-Salut Lucile, 
-comment va Bilou?
+<p>Salut Virginie!</p>

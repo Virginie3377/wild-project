@@ -1,4 +1,4 @@
 # wild-project
 
-Comment installer ce projet? 
-Il suffit, pour le moment, de le cloner.
+<p>comment installer ce projet?</p>
+
